@@ -33,3 +33,11 @@ The descriptions of parameters are as follows:
 | gpu          | The IDs of GPU to use. E.g., `TODO` |
 | print_freq   | The frequency to print training logs. E.g., with `print_freq=10`, training logs are displayed every 10 communication rounds. |
 
+### MIX-4 
+We have also added the Mix-4 codes and scripts for each algorithm under the `mix4/` foloder. You can simply run the script for each algorithm to generate the results. 
+
+### Angle Measure Demo
+We have included a jupyter notebook file here which shows how angle measure works on CIFAR-10 dataset. 
+
+### Contact 
+If you had any questions, please feel free to contact me at mmorafah@eng.ucsd.edu
