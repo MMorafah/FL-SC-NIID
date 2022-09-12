@@ -4,6 +4,9 @@
 *.ap_
 *.aab
 
+__pycache__/
+.ipynb_checkpoints/
+
 # Files for the ART/Dalvik VM
 *.dex
 

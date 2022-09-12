@@ -1,0 +1,1 @@
+sh fedavg.sh && sh fedprox.sh && sh fednova.sh && sh lg.sh && sh per_fedavg.sh && sh ifca.sh
