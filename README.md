@@ -8,7 +8,7 @@ We provide scripts to run the algorithms, which are put under `scripts/`. Here i
 cd scripts
 bash fedavg.sh
 ```
-To run SC-NIID, modify `partition` to `sc_niid_dir`, and `sc_niid2` for Non-IID label dir and Non-IID Label Skew respectively. To run C-NIID, modify `partition` to `sc_old_niid_dir`, and `sc_old_niid2` for Non-IID label dir and Non-IID Label Skew respectively.
+To run `SC-NIID`, modify `partition` to `sc_niid_dir`, and `sc_niid2` for Non-IID label dir and Non-IID Label Skew respectively. To run `C-NIID`, modify `partition` to `sc_old_niid_dir`, and `sc_old_niid2` for Non-IID label dir and Non-IID Label Skew respectively.
 
 The descriptions of parameters are as follows:
 | Parameter | Description |
