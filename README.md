@@ -1,5 +1,5 @@
 # Rethinking Data Heterogeneity in Federated Learning: Introducing a New Notion and Standard Benchmarks
-This repository contains the official code for the paper ``Rethinking Data Heterogeneity in Federated Learning: Introducing a New Notion and Standard Benchmarks''. 
+This repository contains the official code for the paper ``[Rethinking Data Heterogeneity in Federated Learning: Introducing a New Notion and Standard Benchmarks](https://arxiv.org/abs/2209.15595)''. 
 
 ## Usage
 
